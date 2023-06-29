@@ -28,7 +28,7 @@ public class Main {
 		int position = shamrocks.indexOf(CLOVER_FOUR);
 		
 		if (position < 0) {
-			System.out.println("Nenhum " + CLOVER_FOUR + " encontrado!");
+			System.out.println("Nenhum " + CLOVER_FOUR + " encontrado!!!!");
 		} else {
 			System.out.println("Que sorte! " + CLOVER_FOUR + " encontrado na posicão " + position);
 		}
